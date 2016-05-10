@@ -45,5 +45,9 @@ group :development do
   gem 'spring'
 
   gem 'faker'
+
+  gem 'redcarpet'
+
+  gem 'bootstrap-sass'
 end
 
